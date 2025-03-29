@@ -1,0 +1,17 @@
+// Hermoine -> Hamyni
+3:001:white base
+17:000:hat
+16:006:hair
+18:000:glasses
+15:006:nose
+12:008:eyebrows
+13:006:eyes
+14:012:mouth
+7:002:shirt
+9:003:sweater
+8:001:skirt
+10:000:coat
+11:000:face
+5:008:trousers
+4:011:socks
+6:002:shoes

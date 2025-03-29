@@ -1,0 +1,17 @@
+// Luna Lovegood
+3:001:white base
+17:000:hat
+16:031:hair
+18:000:glasses
+12:031:eyebrows
+13:032:eyes
+15:030:nose
+14:036:mouth
+7:017:shirt
+9:011:sweater
+8:000:skirt
+10:000:coat
+11:000:face
+5:013:trousers
+4:000:socks
+6:000:shoes

@@ -1,0 +1,17 @@
+// Sybil Trelawney
+3:001:white base
+17:000:hat
+16:030:hair
+18:005:glasses
+12:030:eyebrows
+13:000:eyes
+15:029:nose
+14:035:mouth
+7:000:shirt
+9:000:sweater
+8:005:skirt
+10:000:coat
+11:000:face
+5:000:trousers
+4:000:socks
+6:002:shoes

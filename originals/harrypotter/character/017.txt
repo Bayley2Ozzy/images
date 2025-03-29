@@ -1,0 +1,17 @@
+// Hooch
+3:001:white base
+17:000:hat
+16:019:hair
+18:000:glasses
+12:019:eyebrows
+13:020:eyes
+15:018:nose
+14:024:mouth
+7:011:shirt
+9:007:sweater
+8:000:skirt
+10:013:coat
+11:000:face
+5:000:trousers
+4:000:socks
+6:011:shoes

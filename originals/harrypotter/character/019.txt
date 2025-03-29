@@ -1,0 +1,17 @@
+// Voldemort
+3:001:white base
+17:000:hat
+16:000:hair
+18:000:glasses
+12:021:eyebrows
+13:022:eyes
+15:020:nose
+14:026:mouth
+7:000:shirt
+9:000:sweater
+8:000:skirt
+10:015:coat
+11:016:face
+5:007:trousers
+4:000:socks
+6:012:shoes

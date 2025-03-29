@@ -1,0 +1,17 @@
+// uncle vernon dursley 
+3:001:white base
+17:000:hat
+16:013:hair
+18:000:glasses
+12:014:eyebrows
+13:014:eyes
+15:013:nose
+14:019:mouth
+7:009:shirt
+9:004:sweater
+8:000:skirt
+10:011:coat
+11:013:face
+5:004:trousers
+4:000:socks
+6:007:shoes

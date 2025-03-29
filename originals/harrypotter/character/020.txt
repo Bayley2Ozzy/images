@@ -1,0 +1,17 @@
+// Sirius Black
+3:001:white base
+17:000:hat
+16:020:hair
+18:000:glasses
+12:022:eyebrows
+13:023:eyes
+15:021:nose
+14:027:mouth
+7:014:shirt
+9:000:sweater
+8:000:skirt
+10:015:coat
+11:018:face
+5:009:trousers
+4:000:socks
+6:000:shoes

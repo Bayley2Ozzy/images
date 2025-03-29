@@ -1,0 +1,17 @@
+// Oliver Wood
+3:001:white base
+17:000:hat
+16:024:hair
+18:000:glasses
+12:024:eyebrows
+13:026:eyes
+15:023:nose
+14:029:mouth
+7:000:shirt
+9:009:sweater
+8:000:skirt
+10:017:coat
+11:000:face
+5:010:trousers
+4:000:socks
+6:014:shoes

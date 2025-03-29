@@ -1,0 +1,17 @@
+// Hagrid
+3:001:white base
+17:000:hat
+16:005:hair
+18:000:glasses
+15:005:nose
+12:005:eyebrows
+13:005:eyes
+14:008:mouth
+7:000:shirt
+9:000:sweater
+8:000:skirt
+10:001:coat
+11:001:face
+5:007:trousers
+4:012:socks
+6:001:shoes

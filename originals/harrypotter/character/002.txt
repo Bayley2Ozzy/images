@@ -1,0 +1,17 @@
+// Ron Weasly
+3:001:white base
+17:000:hat
+16:002:hair
+18:000:glasses
+15:002:nose
+12:002:eyebrows
+13:002:eyes
+14:004:mouth
+7:002:shirt
+9:000:sweater
+8:000:skirt
+10:002:coat
+11:000:face
+5:008:trousers
+4:011:socks
+6:002:shoes

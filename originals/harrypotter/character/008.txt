@@ -1,0 +1,17 @@
+// Severus Snape
+3:001:white base
+17:000:hat
+16:009:hair
+18:000:glasses
+15:009:nose
+12:010:eyebrows
+13:010:eyes
+14:015:mouth
+7:006:shirt
+9:000:sweater
+8:000:skirt
+10:007:coat
+11:000:face
+5:003:trousers
+4:010:socks
+6:004:shoes

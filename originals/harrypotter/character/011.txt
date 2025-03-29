@@ -1,0 +1,17 @@
+// mcgonagall
+3:001:white base
+17:000:hat
+16:012:hair
+18:002:glasses
+12:013:eyebrows
+13:013:eyes
+15:012:nose
+14:018:mouth
+7:008:shirt
+9:000:sweater
+8:000:skirt
+10:009:coat
+11:000:face
+5:000:trousers
+4:000:socks
+6:006:shoes

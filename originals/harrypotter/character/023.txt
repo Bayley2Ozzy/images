@@ -1,0 +1,17 @@
+// Viktor Krum
+3:001:white base
+17:000:hat
+16:025:hair
+18:000:glasses
+12:025:eyebrows
+13:027:eyes
+15:024:nose
+14:030:mouth
+7:000:shirt
+9:010:sweater
+8:000:skirt
+10:000:coat
+11:019:face
+5:011:trousers
+4:000:socks
+6:015:shoes
