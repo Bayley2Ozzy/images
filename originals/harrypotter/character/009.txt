@@ -1,0 +1,17 @@
+// Gregory 
+3:001:white base
+17:000:hat
+16:010:hair
+18:000:glasses
+12:011:eyebrows
+13:011:eyes
+15:010:nose
+14:016:mouth
+7:003:shirt
+9:000:sweater
+8:000:skirt
+10:003:coat
+11:000:face
+5:008:trousers
+4:000:socks
+6:002:shoes

@@ -1,0 +1,17 @@
+// Aunt Marge
+3:001:white base
+17:000:hat
+16:027:hair
+18:000:glasses
+12:027:eyebrows
+13:029:eyes
+15:026:nose
+14:032:mouth
+7:016:shirt
+9:000:sweater
+8:004:skirt
+10:000:coat
+11:000:face
+5:000:trousers
+4:000:socks
+6:017:shoes

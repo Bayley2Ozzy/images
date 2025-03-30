@@ -1,0 +1,17 @@
+// Fleur Delacor
+3:001:white base
+17:006:hat
+16:022:hair
+18:000:glasses
+12:023:eyebrows
+13:025:eyes
+15:022:nose
+14:028:mouth
+7:000:shirt
+9:000:sweater
+8:003:skirt
+10:016:coat
+11:000:face
+5:000:trousers
+4:000:socks
+6:013:shoes

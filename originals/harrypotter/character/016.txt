@@ -1,0 +1,17 @@
+// neville
+3:001:white base
+17:000:hat
+16:018:hair
+18:000:glasses
+12:018:eyebrows
+13:019:eyes
+15:017:nose
+14:023:mouth
+7:002:shirt
+9:000:sweater
+8:000:skirt
+10:002:coat
+11:000:face
+5:008:trousers
+4:000:socks
+6:002:shoes

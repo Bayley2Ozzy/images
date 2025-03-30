@@ -1,0 +1,17 @@
+// filch
+3:001:white base
+17:000:hat
+16:017:hair
+18:000:glasses
+12:017:eyebrows
+13:018:eyes
+15:016:nose
+14:022:mouth
+7:010:shirt
+9:000:sweater
+8:000:skirt
+10:012:coat
+11:000:face
+5:006:trousers
+4:000:socks
+6:010:shoes

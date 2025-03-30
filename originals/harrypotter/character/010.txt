@@ -1,0 +1,17 @@
+// Albus dumbledore 
+3:001:white base
+17:002:hat
+16:011:hair
+18:003:glasses
+12:012:eyebrows
+13:012:eyes
+15:011:nose
+14:017:mouth
+7:007:shirt
+9:000:sweater
+8:000:skirt
+10:008:coat
+11:017:face
+5:000:trousers
+4:000:socks
+6:005:shoes

@@ -1,0 +1,17 @@
+// aunt petunia dursley 
+3:001:white base
+17:000:hat
+16:014:hair
+18:000:glasses
+12:015:eyebrows
+13:015:eyes
+15:014:nose
+14:020:mouth
+7:000:shirt
+9:005:sweater
+8:000:skirt
+10:000:coat
+11:000:face
+5:000:trousers
+4:000:socks
+6:008:shoes

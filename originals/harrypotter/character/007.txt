@@ -1,0 +1,17 @@
+// Ginny Weasly
+3:001:white base
+17:000:hat
+16:008:hair
+18:000:glasses
+15:007:nose
+12:009:eyebrows
+13:009:eyes
+14:014:mouth
+7:002:shirt
+9:000:sweater
+8:000:skirt
+10:002:coat
+11:000:face
+5:008:trousers
+4:011:socks
+6:002:shoes

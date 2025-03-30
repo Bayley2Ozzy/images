@@ -1,0 +1,17 @@
+// madeye moody
+3:001:white base
+17:000:hat
+16:015:hair
+18:004:glasses
+12:016:eyebrows
+13:016:eyes
+15:015:nose
+14:021:mouth
+7:000:shirt
+9:006:sweater
+8:000:skirt
+10:010:coat
+11:015:face
+5:005:trousers
+4:000:socks
+6:009:shoes

@@ -1,0 +1,17 @@
+// Moaning Myrtle
+3:001:white base
+17:000:hat
+16:033:hair
+18:006:glasses
+12:033:eyebrows
+13:034:eyes
+15:032:nose
+14:038:mouth
+7:005:shirt
+9:000:sweater
+8:001:skirt
+10:006:coat
+11:000:face
+5:000:trousers
+4:001:socks
+6:002:shoes

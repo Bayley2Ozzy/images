@@ -1,0 +1,17 @@
+// Malfoy
+3:001:white base
+17:000:hat
+16:003:hair
+18:000:glasses
+15:004:nose
+12:004:eyebrows
+13:004:eyes
+14:002:mouth
+7:003:shirt
+9:000:sweater
+8:000:skirt
+10:003:coat
+11:000:face
+5:008:trousers
+4:011:socks
+6:002:shoes
